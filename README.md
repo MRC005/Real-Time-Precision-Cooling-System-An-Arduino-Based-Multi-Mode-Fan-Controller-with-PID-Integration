@@ -191,7 +191,8 @@ This can be visualized using **Arduino Serial Plotter** to analyze:
 Main implementation available in:
 
 ```
-/code/main.ino     
+/code/sketch_apr3a.ino
+
 ```
 
 (Full working code included)
